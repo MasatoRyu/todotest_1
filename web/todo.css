@@ -1,0 +1,69 @@
+
+/* 蝓ｺ譛ｬ縺ｮ繧ｹ繧ｿ繧､繝ｫ */
+h1 {
+    font-size: 32px;
+    margin: 0px;
+    padding: 4px;
+    color: #222288;
+}
+
+hr {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/* 繝壹�繧ｸ蝗ｺ譛峨�繧ｹ繧ｿ繧､繝ｫ */
+/* 繝ｭ繧ｰ繧､繝ｳ繝壹�繧ｸ */
+th.login_field {
+    width: 150px;
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #aaaaff;
+}
+
+td.login_field {
+    padding: 8px;
+}
+
+td.login_button {
+    text-align: center;
+    padding: 8px;
+}
+
+/* 繝ｪ繧ｹ繝医�繝ｼ繧ｸ */
+table.toolbar {
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+table.list th {
+    width: 150px;
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #5555aa;
+}
+
+table.list td {
+    background-color: #bbbbff;
+    padding: 8px;
+}
+
+/* 霑ｽ蜉�繝ｻ邱ｨ髮��蜑企勁繝壹�繧ｸ */
+th.add_field {
+    width: 150px;
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #aaaaff;
+}
+
+td.add_field {
+    padding: 8px;
+}
+
+td.add_button {
+    text-align: center;
+    padding: 8px;
+}
